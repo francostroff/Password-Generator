@@ -9,7 +9,7 @@
 
 ## Screenshot
 
-![password generator demo](./assets/05-javascript-challenge-demo.png)
+![password generator demo](05-javascript-challenge-demo.png)
 
 
 * Generate a password when the button is clicked
