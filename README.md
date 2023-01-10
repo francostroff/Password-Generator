@@ -5,6 +5,7 @@
 * When you press the button "Generate" it will give you a password randomly generated with lower case characters, upper case characters, symbols and 
 * numbers based on user inputs.
 
+## Live URL - https://francostroff.github.io/Password-Generator/
 
 
 ## Screenshot
