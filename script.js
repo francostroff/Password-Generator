@@ -90,7 +90,7 @@ var upperCasedCharacters = [
 
 var userOptions = {};
 
-var charsLength = function () {
+var howMany = function () {
   var numOfChar = Number(
     prompt("How many characters do you want on your password?")
   );
@@ -102,7 +102,7 @@ var charsLength = function () {
     alert(
       "Your password need at least 10 characters but no more than 64. Please try again."
     );
-    return charsLength();
+    return howMany();
   }
 };
 
